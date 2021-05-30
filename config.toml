@@ -29,7 +29,6 @@ pygmentsStyle = "monokai"
     identifier = "Food and Beverage"
     name = "Food and Beverage"
     url = "/tags/pengertian-food-and-beverage/"
-    parent = "category"
     weight = 1
 
 [Params]
