@@ -1,9 +1,9 @@
-baseurl = "https://belajarperhotelan.eu.org/hug/"
+baseurl = "https://belajarperhotelan.eu.org/"
 title = "belajar perhotelan"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
-disqusShortname = "belajarperhotelan" # Enable Disqus comments by entering your Disqus shortname
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 # googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 pygmentsCodefences = true
@@ -48,15 +48,15 @@ pygmentsStyle = "monokai"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  # facebook = "mzaini30"
-  # twitter = "mzaini30"
-  # instagram = "mzaini30"
-  # linkedin = "username"
-  # telegram = "mzaini30a"
-  # github = "mzaini30"
-  # gitlab = "mzaini30"
-  # bitbucket = "mzaini30"
-  # email = "muhzaini30@gmail.com"
+  # facebook = ""
+  # twitter = ""
+  # instagram = ""
+  # linkedin = ""
+  # telegram = ""
+  # github = ""
+  # gitlab = ""
+  # bitbucket = ""
+  # email = "belajarperhotelaneuorg@gmail.com"
 
 # Custom social links
 [[Params.widgets.social.custom]]
