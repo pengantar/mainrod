@@ -1,5 +1,5 @@
-baseurl = "https://mzaini30.com/"
-title = "Zen"
+baseurl = "https://belajarperhotelan.eu.org/hug/"
+title = "belajar perhotelan"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -11,14 +11,14 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "monokai"
 
 [Author] # Used in authorbox
-  name = "Zen"
+  name = "Perhotelan"
   bio = "Penulis"
   avatar = "https://i.ibb.co/F0zbyrb/IMG-20200318-075012.jpg"
 
 [Params]
   subtitle = "Blog Zen" # Subtitle of your site. Used in site header
   description = "Hanya sebuah blog random." # Site description. Used in meta description
-  copyright = "Zen" # Footer copyright holder, otherwise will use site title
+  copyright = "Perhotelan" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   twitter_cards = true # Enable Twitter Cards if true
   readmore = false # Show "Read more" button in list if true
@@ -61,7 +61,7 @@ pygmentsStyle = "monokai"
 # Custom social links
 [[Params.widgets.social.custom]]
   title = "Portofolio"
-  url = "https://mzaini30.js.org"
+  url = "https://belajarperhotelan.eu.org/hug"
   icon = "svg/instagram.svg" # Optional. Path relative to "layouts/partials"
 
 # [[Params.widgets.social.custom]]
