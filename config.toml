@@ -29,7 +29,7 @@ pygmentsStyle = "monokai"
     identifier = "Food and Beverage"
     name = "Food and Beverage"
     url = "/tags/pengertian-food-and-beverage/"
-    weight = 1
+    weight = 3
 
 [Params]
   subtitle = "Belajar Perhotelan • Food and Beverage Service • Banqet • Housekeeping • Front Office • Laundry Perhotelan • Marketing Perhotelan" # Subtitle of your site. Used in site header
