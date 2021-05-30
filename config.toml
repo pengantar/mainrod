@@ -23,7 +23,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "FnB"
     name = "Fnb"
-    url = "/category/food-and-beverage/"
+    url = "/categories/food-and-beverage/"
     weight = 2
   [[menu.main]]
     identifier = "Food and Beverage"
