@@ -21,14 +21,14 @@ pygmentsStyle = "monokai"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "category"
-    name = "Category"
-    url = "/category"
+    identifier = "FnB"
+    name = "Fnb"
+    url = "/category/food-and-beverage/"
     weight = 2
   [[menu.main]]
     identifier = "Food and Beverage"
     name = "Food and Beverage"
-    url = "tags/pengertian-food-and-beverage/"
+    url = "/tags/pengertian-food-and-beverage/"
     parent = "category"
     weight = 1
 
