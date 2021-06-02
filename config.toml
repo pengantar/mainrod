@@ -1,5 +1,5 @@
-baseurl = "https://akunewb.github.io/mainrod/"
-title = "belajar perhotelan"
+baseurl = "https://mainrod.pages.dev/"
+title = "earbuds"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "monokai"
 
 [Author] # Used in authorbox
-  name = "Belajar Perhotelan"
+  name = "Earbuds"
   bio = "Penulis"
   avatar = "https://i.ibb.co/F0zbyrb/IMG-20200318-075012.jpg"
 [menu]  
